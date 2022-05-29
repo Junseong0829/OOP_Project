@@ -7,4 +7,6 @@ int main() {
 	MineSweeper minesweeper;
 	
 	minesweeper.run();
+
+	cout << "ww";
 }
